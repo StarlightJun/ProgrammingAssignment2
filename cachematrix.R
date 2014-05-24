@@ -1,5 +1,5 @@
 ## This R code is for caching the Inverse of a Matrix. A pair of functions
-## ( makeCacheMatrix and cacheSolve ) cache the inverse of a matrix.
+## (makeCacheMatrix and cacheSolve) cache the inverse of a matrix.
 
 ## To understand the capabilities of these pair functions, please refer to the 
 ## test result shown below. This R code assume that the matrix supplied is 
